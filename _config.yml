@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: DevOps School
 description: DevOps School
+
+exclude: [.github]
